@@ -1,0 +1,25 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json",
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "files.associations": {
+    "arinc429.h": "c",
+    "task1.h": "c",
+    "partition.h": "c",
+    "string.h": "c",
+    "model.h": "c",
+    "time_t.h": "c",
+    "stdio.h": "c",
+    "scheduler.h": "c",
+    "types.h": "c",
+    "stdatomic.h": "c",
+    "time.h": "c",
+    "process.h": "c",
+    "task2.h": "c",
+    "stdbool.h": "c",
+    "stdint.h": "c",
+    "milstd1553b.h": "c",
+    "ipc_sampling.h": "c"
+  }
+}
