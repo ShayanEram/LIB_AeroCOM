@@ -11,9 +11,9 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 # -----------------------------
 add_library(com SHARED
     # Comm Drivers
-    Comm/ARINC429/Src/arinc429.c
-    Comm/ARINC664/Src/arinc664.c
-    Comm/MILSTD1553B/Src/milstd1553b.c
+    ARINC429/Src/arinc429.c
+    ARINC664/Src/arinc664.c
+    MILSTD1553B/Src/milstd1553b.c
 )
 
 # -----------------------------
